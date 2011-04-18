@@ -1,0 +1,10 @@
+This is a knockoff of Flood-It (web and ios) I wrote in a few weekends
+back in 2009.
+Runs in Python 2.x with Pygame.
+
+Has flashy graphics. Built in quake-like console (hit ~ on your keyboard).
+My first experiment with a live console in an app.
+
+Runs anywhere Python and Pygame do. Windows .exe created by py2exe
+is in deluge_windows.zip. Seems to run on XP, Win Vista, and 7. Let me know
+if you have any issues.
